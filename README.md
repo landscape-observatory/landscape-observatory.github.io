@@ -1,2 +1,3 @@
-# landscape-observatory.github.io
-Interpretation keys
+# Landscape Observatory schema files
+
+Schema and interpretation keys...
